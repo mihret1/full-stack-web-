@@ -8,4 +8,4 @@ signUP and Login,logout,
 jwt Athentication.
 and other functionalitys
 
-mern(react-redux,nodeJs and mongodb)
+mern(react-redux (contain matrial UI react library),nodeJs and mongodb)
